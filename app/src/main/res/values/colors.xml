@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#819FF7</color>
+    <color name="colorAccent">#FFB300</color>
+
+    <color name="ligh_meduim_gray" >#070B19</color>
+    <color name="fav_icon_tint">#FF0000</color>
+</resources>
